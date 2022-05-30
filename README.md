@@ -1,4 +1,4 @@
-### Hi there, I'm [Vassiliy!](https://oriontvv.github.io) 👋
+### Hi there, I'm [Vasiliy!](https://oriontvv.github.io) 👋
 
 <a href="https://t.me/orion_tvv">
   <img align="left" alt="telegram" width="20px" src="https://telegram.org/img/t_logo.svg" />
