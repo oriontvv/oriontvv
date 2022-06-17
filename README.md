@@ -15,9 +15,8 @@
 
 I'm curious to learn programming, new languages, patterns and technologies.
 
-- I’m currently working as python backend developer
+- I’m currently working as python/rust backend developer
 - My hobby pet-project is a mobile game [Tricky Castle](https://team-tricky.github.io/)
-- I’m currently learning Rust language
 - Ask me about anything [here](https://github.com/oriontvv/oriontvv/issues)
 
 
